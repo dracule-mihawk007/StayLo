@@ -1,0 +1,13 @@
+node_modules
+changes.txt
+
+frontend/node_modules
+backend/node_modules
+
+frontend/.env
+frontend/.env*.local
+backend/.env
+backend/.env*.local
+
+# Ignore logs
+*.log
